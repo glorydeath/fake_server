@@ -1,5 +1,5 @@
-{"heartbeat":{
-  "response":
+{"heartbeat":[{
+    "response":[
         {
             "action":"add_contact",
             "data":{
@@ -25,6 +25,5 @@
         }
         
     ]
-
-}
+}]
 }
