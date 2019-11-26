@@ -4,24 +4,56 @@
             {
                 "action":"add_contact",
                 "data":{
-                    "contacts":[
-                        {
-                            "id":12345,
-                            "company_name":"webank",
-                            "juridical_person_name":"michaelliu",
-                            "phone_number":138787878787,
-                            "add_account":"tony",
-                            "status":0
-                        },
-                        {
-                            "id":54321,
-                            "company_name":"webank",
-                            "juridical_person_name":"michaelliu",
-                            "phone_number":138787878787,
-                            "add_account":"tony",
-                            "status":0
-                        }
-                    ]
+                    "contacts": [
+          {
+            "id": 12345,
+            "company_name": "webank1",
+            "juridical_person_name": "michaelliu",
+            "phone_number": 13878787878,
+            "add_account": "tony",
+            "status": 0
+          },
+          {
+            "id": 54321,
+            "company_name": "webank2",
+            "juridical_person_name": "songtao",
+            "phone_number": 15220088755,
+            "add_account": "tony",
+            "status": 0
+          },
+          {
+            "id": 12346,
+            "company_name": "webank3",
+            "juridical_person_name": "田娟",
+            "phone_number": 13631630734,
+            "add_account": "tony",
+            "status": 0
+          },
+          {
+            "id": 12347,
+            "company_name": "webank4",
+            "juridical_person_name": "userljb",
+            "phone_number": 13111198912,
+            "add_account": "tony",
+            "status": 0
+          },
+          {
+            "id": 66666,
+            "company_name": "webank5",
+            "juridical_person_name": "username",
+            "phone_number": 18888888889,
+            "add_account": "tony",
+            "status": 0
+          },
+          {
+            "id": 99999,
+            "company_name": "webank6",
+            "juridical_person_name": "托尼老师",
+            "phone_number": 13333333333,
+            "add_account": "tony",
+            "status": 0
+          }
+        ]
                 }
             }
         ]
